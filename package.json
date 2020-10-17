@@ -1,0 +1,23 @@
+{
+  "name": "monitor",
+  "version": "1.0.0",
+  "description": "System monitor based on WebSockets",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/armyofgeeks/monitor.git"
+  },
+  "author": "MossDev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/armyofgeeks/monitor/issues"
+  },
+  "homepage": "https://github.com/armyofgeeks/monitor#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "ws": "^7.3.1"
+  }
+}
